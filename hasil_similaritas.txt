@@ -1,0 +1,5 @@
+0 ./files/PP No. 28 Tahun 1985 Tentang Perlindungan Hutan.pdf
+1 ./files/UU No. 1 tahun 1974 Tentang Perkawinan.pdf
+
+
+Similaritas pdf ke 0 dan pdf ke 1 = 0.05607476635514
